@@ -27,9 +27,9 @@ The following files will be created by part_a:
 ---
 Submitted by
 
-| Name                  | ID        | Department            |
-|-----------------------|-----------|-----------------------|
-| Noa Shachar Delatizki | 209134881 | Computational Biology |
-| Yonatan Feigel        | 208296210 | Computer Science      |
+| Name                  | Department            |
+|-----------------------|-----------------------|
+| Noa Shachar Delatizki | Computational Biology |
+| Yonatan Feigel        | Computer Science      |
 
 We're a mixed team 😊!
