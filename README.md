@@ -1,6 +1,6 @@
 # Genetic Algorithm for Breaking Substitution Ciphers
 
-Please read `report.pdf`.
+Please read `report.pdf` (Hebrew).
 
 
 ## how to run
