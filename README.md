@@ -3,7 +3,7 @@
 Please read `report.pdf` (Hebrew).
 
 
-## how to run
+## How to Run
 
 ### Option 1:
 
